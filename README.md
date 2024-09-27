@@ -1,2 +1,2 @@
 # TikTok
-TikTok: Theories, tools and &lt;br>techniques for content analysis
+TikTok: Theories, tools and techniques for content analysis
