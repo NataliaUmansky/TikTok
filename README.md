@@ -18,17 +18,17 @@ patterns and narratives.
 5. Development of research questions
 
 **Day 2: Practical Coding and Analysis Techniques**
-6. Introduction to Convolutional Neural Networks (CNNs)
-7. Supervised and unsupervised image classification
-8. Advanced techniques: Automated face analysis in TikTok videos
-9. Tools for hypothesis testing
-10. Beyond the visual: Dissecting TikTok videos (audio, text, and image
+1. Introduction to Convolutional Neural Networks (CNNs)
+2. Supervised and unsupervised image classification
+3. Advanced techniques: Automated face analysis in TikTok videos
+4. Tools for hypothesis testing
+5. Beyond the visual: Dissecting TikTok videos (audio, text, and image
 combined)
 
 **Day 3: Research projects**
-11. Project Presentations
-o Students present their individual projects to the group
-o Peer and instructor feedback on the methodologies,
+6. Project Presentations
+    - Students present their individual projects to the group
+    - Peer and instructor feedback on the methodologies,
 findings, and interpretations
-o Group discussion on key learnings and takeaways from the
+    - Group discussion on key learnings and takeaways from the
 workshop
