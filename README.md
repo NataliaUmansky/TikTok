@@ -26,7 +26,7 @@ patterns and narratives.
 combined)
 
 **Day 3: Research projects**
-6. Project Presentations
+1. Project Presentations
     - Students present their individual projects to the group
     - Peer and instructor feedback on the methodologies,
 findings, and interpretations
