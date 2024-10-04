@@ -17,7 +17,7 @@ patterns and narratives.
 4. Good practices and ethical considerations
 5. Development of research questions
 
-**Day 2: Practical Coding and Analysis Techniques** (data: https://www.dropbox.com/scl/fo/9427moavkle85jrvxhqhb/ANfbjW1fPY29r2VQY7_VyZc?rlkey=4v1qxv8ageetteowbdzesz9z4&st=380toi1n&dl=0 )
+**Day 2: Practical Coding and Analysis Techniques** (data: https://www.dropbox.com/scl/fo/66ww6wx3uyfmrxtofwj15/AIaEMzMwCuH73nsE-2yyuR4?rlkey=bndw19j6v0c4oy2qw27g7xpgy&st=brwh0s8k&dl=0 )
 1. Introduction to Convolutional Neural Networks (CNNs)
 2. Supervised and unsupervised image classification
 3. Advanced techniques: Automated face analysis in TikTok videos
